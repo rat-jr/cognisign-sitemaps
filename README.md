@@ -6,7 +6,9 @@
 **License**: Cognisigned Non-commercial License  
 **Usage**: Symbolic outreach visual for solitude module
 ### Image Attribution
-
+- **dinner-alone.jpeg**  
+  Created by ratjr. Licensed for symbolic outreach.  
+  [Raw Image](https://raw.githubusercontent.com/rat-jr/cognisign-sitemaps/main/dinner-alone.jpeg)
 - **solitude-window.jpeg**  
   Created by ratjr. Licensed for symbolic outreach.  
   [Raw Image](https://raw.githubusercontent.com/rat-jr/cognisign-sitemaps/main/solitude-window.jpeg)
