@@ -10,7 +10,3 @@
 - **solitude-window.jpeg**  
   Created by ratjr. Licensed for symbolic outreach.  
   [Raw Image](https://raw.githubusercontent.com/rat-jr/cognisign-sitemaps/main/solitude-window.jpeg)
-
-- **empty-path.jpeg**  
-  Created by ratjr. Licensed for symbolic outreach.  
-  [Raw Image](https://raw.githubusercontent.com/rat-jr/cognisign-sitemaps/main/empty-path.jpeg)
