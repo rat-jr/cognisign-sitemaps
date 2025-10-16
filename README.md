@@ -12,3 +12,7 @@
 - **solitude-window.jpeg**  
   Created by ratjr. Licensed for symbolic outreach.  
   [Raw Image](https://raw.githubusercontent.com/rat-jr/cognisign-sitemaps/main/solitude-window.jpeg)
+- **mutual-respect.jpeg**  
+  Created by ratjr. Licensed for symbolic outreach.  
+  [Raw Image](https://raw.githubusercontent.com/rat-jr/cognisign-sitemaps/main/mutual-respect.jpeg)
+  
