@@ -1,5 +1,5 @@
-Visual by ratjr | Licensed under the Cognisigned Non-commercial License  
-Created for use in symbolic modules exploring solitude, connection, and reflection.
+Visual By ratjr | Licensed Under The Cognisigned Non-commercial License  
+Created For Use In Attribution Modules.
 
 ### Image Attribution
 - **dinner-alone.jpeg**  
