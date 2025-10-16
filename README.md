@@ -1,10 +1,6 @@
-## 🎨 Cognisigned Visual Attribution
+Visual by ratjr | Licensed under the Cognisigned Non-commercial License  
+Created for use in symbolic modules exploring solitude, connection, and reflection.
 
-**Filename**: `dinner-alone.jpeg`  
-**Alt/Title**: *Man dining alone at a warmly lit restaurant table, surrounded by empty chairs, evoking solitude and introspection*  
-**Creator**: ratjr  
-**License**: Cognisigned Non-commercial License  
-**Usage**: Symbolic outreach visual for solitude module
 ### Image Attribution
 - **dinner-alone.jpeg**  
   Created by ratjr. Licensed for symbolic outreach.  
