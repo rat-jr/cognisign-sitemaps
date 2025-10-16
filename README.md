@@ -1,5 +1,5 @@
-Visual By ratjr | Licensed Under The Cognisigned Non-commercial License  
-Created For Use In Attribution Modules.
+Visuals by ratjr · Licensed under the Cognisigned Non-Commercial License · Created for use in attribution modules.
+
 
 ### Image Attribution
 - **dinner-alone.jpeg**  
